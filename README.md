@@ -13,7 +13,9 @@ README Maker is a Node.js tool designed to automate the generation of README fil
 - [Questions](#questions)
 
 ## Installation
-# Clone this repository to your local machine git clone <repository_url> # Navigate to the project directory cd README-maker # Install dependencies using npm  npm install  # Once the dependencies are installed, you can use README Maker to generate README files for your projects.
+# Clone this repository to your local machine git clone <repository_url> 
+# Navigate to the project directory cd README-maker # Install dependencies using npm  npm install  
+# Once the dependencies are installed, you can use README Maker to generate README files for your projects.
 
 ## Usage
 
@@ -105,3 +107,5 @@ For any questions, please contact octozek@gmail.com. You can also visit my [GitH
 ## Also
 
 this README was made with this README Maker.
+
+video of using README Maker [https://www.youtube.com/watch?v=jRB_CkiET8g&ab_channel=OctozekOwens]
